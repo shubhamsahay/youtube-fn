@@ -1,0 +1,14 @@
+#show_videos{
+    display: grid;
+    grid-template-columns: repeat(4,20%);
+    grid-gap: 5%;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYKEhPHpXCeNSd3MbviFGi-ITeu-fveeFhfQ&usqp=CAU") ;
+    background-size: 100%;
+
+}
+#centre{
+    text-align: center;
+    margin-top: 100px;
+}
